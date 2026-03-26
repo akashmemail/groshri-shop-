@@ -1,0 +1,343 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aashirvaad Atta 5kg",
+      "category": "flour",
+      "price": 275,
+      "stock": 40,
+      "brand": "Aashirvaad",
+      "image": "https://www.jiomart.com/images/product/original/490000038/aashirvaad-shudh-chakki-atta-5-kg-product-images-o490000038-p490000038-0-202404301713.jpg?im=Resize=(420,420)"
+    },
+    {
+      "id": 2,
+      "name": "India Gate Basmati Rice 1kg",
+      "category": "rice",
+      "price": 130,
+      "stock": 55,
+      "brand": "India Gate",
+      "image": "https://www.jiomart.com/images/product/original/rveluk3r7c/921-xxxl-classic-extra-long-grain-biryani-basmati-rice-1kg-product-images-orveluk3r7c-p612136041-0-202508071644.jpg?im=Resize=(420,420)"
+    },
+    {
+      "id": 3,
+      "name": "Tata Salt 1kg",
+      "category": "salt",
+      "price": 28,
+      "stock": 80,
+      "brand": "Tata",
+      "image": "https://www.jiomart.com/images/product/original/490000073/tata-iodised-salt-1-kg-product-images-o490000073-p490000073-0-202302131739.jpg?im=Resize=(420,420)"
+    },
+    {
+      "id": 4,
+      "name": "Fortune Sunflower Oil 1L",
+      "category": "oil",
+      "price": 165,
+      "stock": 35,
+      "brand": "Fortune",
+      "image": "https://www.jiomart.com/images/product/original/rv8hrjuqpj/sarfa-kachi-ghani-cold-pressed-mustard-oil-1l-pouch-product-images-orv8hrjuqpj-p609353052-0-202507311706.jpg?im=Resize=(420,420)"
+    },
+    {
+      "id": 5,
+      "name": "Maggi Noodles 70g",
+      "category": "snacks",
+      "price": 15,
+      "stock": 120,
+      "brand": "Maggi",
+      "image": "https://www.jiomart.com/images/product/original/rvzt1ih31x/veganic-hakka-noodles-veg-chowmein-masala-maggie-chowmin-noodles-long-slurpy-noodles-plain-chopsuey-noodles-no-preservatives-1800g-product-images-orvzt1ih31x-p597555600-0-202502171118.jpg?im=Resize=(420,420)"
+    },
+
+    {
+      "id": 6,
+      "name": "Surf Excel Detergent 1kg",
+      "category": "cleaning",
+      "price": 210,
+      "stock": 45,
+      "brand": "Surf Excel",
+      "image": "https://www.jiomart.com/images/product/original/rvnc1akxib/ariel-power-gel-liquid-detergent-for-top-load-semi-auto-6kg-jumbo-saver-product-images-orvnc1akxib-p611285363-0-202511241236.jpg?im=Resize=(420,420)"
+    },
+    {
+      "id": 7,
+      "name": "Tata Tea Gold 500g",
+      "category": "beverages",
+      "price": 260,
+      "stock": 30,
+      "brand": "Tata",
+      "image": "https://www.jiomart.com/images/product/original/rvkjtmwce1/nikunj-cutting-chai-1000-gm-real-kadak-chai-black-tea-strong-blend-rich-taste-product-images-orvkjtmwce1-p611217985-0-202503251836.jpg?im=Resize=(420,420)"
+    },
+    {
+      "id": 8,
+      "name": "Red Label Tea 500g",
+      "category": "beverages",
+      "price": 240,
+      "stock": 38,
+      "brand": "Red Label",
+      "image": "https://m.media-amazon.com/images/I/71nGq6z7qCL._SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Amul Butter 500g",
+      "category": "dairy",
+      "price": 285,
+      "stock": 25,
+      "brand": "Amul",
+      "image": "https://m.media-amazon.com/images/I/71xR0CqG7EL._SL1500_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Amul Milk 1L",
+      "category": "dairy",
+      "price": 62,
+      "stock": 60,
+      "brand": "Amul",
+      "image": "https://m.media-amazon.com/images/I/61K1J7p0YPL._SL1500_.jpg"
+    },
+
+    {
+      "id": 11,
+      "name": "Toor Dal 1kg",
+      "category": "dal",
+      "price": 160,
+      "stock": 50,
+      "brand": "Tata Sampann",
+      "image": "https://m.media-amazon.com/images/I/71pQX9zq9IL._SL1500_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Moong Dal 1kg",
+      "category": "dal",
+      "price": 145,
+      "stock": 45,
+      "brand": "Tata Sampann",
+      "image": "https://m.media-amazon.com/images/I/71xW8V8J9SL._SL1500_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Chana Dal 1kg",
+      "category": "dal",
+      "price": 95,
+      "stock": 60,
+      "brand": "Fortune",
+      "image": "https://m.media-amazon.com/images/I/71WQK3S8kCL._SL1500_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Masoor Dal 1kg",
+      "category": "dal",
+      "price": 110,
+      "stock": 52,
+      "brand": "Fortune",
+      "image": "https://m.media-amazon.com/images/I/71R5s1v6c+L._SL1500_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Poha 1kg",
+      "category": "grains",
+      "price": 70,
+      "stock": 65,
+      "brand": "24 Mantra",
+      "image": "https://m.media-amazon.com/images/I/71G2n7+9u5L._SL1500_.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Sooji 1kg",
+      "category": "grains",
+      "price": 55,
+      "stock": 75,
+      "brand": "Patanjali",
+      "image": "https://m.media-amazon.com/images/I/71l8F9s9rHL._SL1500_.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Besan 1kg",
+      "category": "flour",
+      "price": 90,
+      "stock": 55,
+      "brand": "Fortune",
+      "image": "https://m.media-amazon.com/images/I/71p6Jkq7QhL._SL1500_.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Sugar 1kg",
+      "category": "grocery",
+      "price": 45,
+      "stock": 90,
+      "brand": "Madhur",
+      "image": "https://m.media-amazon.com/images/I/71T6z+4W9BL._SL1500_.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Jaggery 1kg",
+      "category": "grocery",
+      "price": 65,
+      "stock": 40,
+      "brand": "Organic India",
+      "image": "https://m.media-amazon.com/images/I/71N0w+u2uFL._SL1500_.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Parle-G Biscuits 200g",
+      "category": "snacks",
+      "price": 10,
+      "stock": 150,
+      "brand": "Parle",
+      "image": "https://m.media-amazon.com/images/I/81c9z0lX9LL._SL1500_.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Good Day Biscuits 200g",
+      "category": "snacks",
+      "price": 30,
+      "stock": 95,
+      "brand": "Britannia",
+      "image": "https://m.media-amazon.com/images/I/81xS9dV4n3L._SL1500_.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Marie Gold Biscuits 250g",
+      "category": "snacks",
+      "price": 35,
+      "stock": 80,
+      "brand": "Britannia",
+      "image": "https://m.media-amazon.com/images/I/71YzG9y6pJL._SL1500_.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Lux Soap 100g",
+      "category": "soap",
+      "price": 35,
+      "stock": 110,
+      "brand": "Lux",
+      "image": "https://m.media-amazon.com/images/I/71sK0l8+uJL._SL1500_.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Lifebuoy Soap 125g",
+      "category": "soap",
+      "price": 32,
+      "stock": 100,
+      "brand": "Lifebuoy",
+      "image": "https://m.media-amazon.com/images/I/71F9+z6s5mL._SL1500_.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Clinic Plus Shampoo 180ml",
+      "category": "shampoo",
+      "price": 85,
+      "stock": 70,
+      "brand": "Clinic Plus",
+      "image": "https://m.media-amazon.com/images/I/61g5sQ3vBVL._SL1500_.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Head & Shoulders Shampoo 180ml",
+      "category": "shampoo",
+      "price": 165,
+      "stock": 50,
+      "brand": "Head & Shoulders",
+      "image": "https://m.media-amazon.com/images/I/71r6sS5E2+L._SL1500_.jpg"
+    },
+
+    {
+      "id": 27,
+      "name": "Dove Soap 100g",
+      "category": "soap",
+      "price": 55,
+      "stock": 60,
+      "brand": "Dove",
+      "image": "https://m.media-amazon.com/images/I/71wQ3wz8mTL._SL1500_.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Pears Soap 125g",
+      "category": "soap",
+      "price": 60,
+      "stock": 45,
+      "brand": "Pears",
+      "image": "https://m.media-amazon.com/images/I/61Y9k0Zl6sL._SL1500_.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Colgate Toothpaste 200g",
+      "category": "personal_care",
+      "price": 95,
+      "stock": 85,
+      "brand": "Colgate",
+      "image": "https://m.media-amazon.com/images/I/71v0QJ5bZcL._SL1500_.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Closeup Toothpaste 150g",
+      "category": "personal_care",
+      "price": 75,
+      "stock": 70,
+      "brand": "Closeup",
+      "image": "https://m.media-amazon.com/images/I/61oR5K5vH1L._SL1500_.jpg"
+    },
+
+    {
+      "id": 31,
+      "name": "Kurkure Masala Munch 90g",
+      "category": "snacks",
+      "price": 20,
+      "stock": 140,
+      "brand": "Kurkure",
+      "image": "https://m.media-amazon.com/images/I/81sK8k0Z5pL._SL1500_.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Lays Classic Chips 50g",
+      "category": "snacks",
+      "price": 20,
+      "stock": 130,
+      "brand": "Lays",
+      "image": "https://m.media-amazon.com/images/I/71v7s9F8y5L._SL1500_.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Bingo Mad Angles 80g",
+      "category": "snacks",
+      "price": 25,
+      "stock": 100,
+      "brand": "Bingo",
+      "image": "https://m.media-amazon.com/images/I/71F6c0k0s1L._SL1500_.jpg"
+    },
+
+    {
+      "id": 34,
+      "name": "Catch Turmeric Powder 200g",
+      "category": "masala",
+      "price": 70,
+      "stock": 65,
+      "brand": "Catch",
+      "image": "https://m.media-amazon.com/images/I/71h8u0c7YkL._SL1500_.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Everest Chilli Powder 100g",
+      "category": "masala",
+      "price": 85,
+      "stock": 58,
+      "brand": "Everest",
+      "image": "https://m.media-amazon.com/images/I/71M0w4e7YJL._SL1500_.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Everest Garam Masala 100g",
+      "category": "masala",
+      "price": 95,
+      "stock": 54,
+      "brand": "Everest",
+      "image": "https://m.media-amazon.com/images/I/71yZq8b1+6L._SL1500_.jpg"
+    },
+
+    {
+      "id": 150,
+      "name": "Haldiram Bhujia 200g",
+      "category": "snacks",
+      "price": 60,
+      "stock": 75,
+      "brand": "Haldiram",
+      "image": "https://m.media-amazon.com/images/I/81G5p6V0y-L._SL1500_.jpg"
+    }
+  ]
+}
